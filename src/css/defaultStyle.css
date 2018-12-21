@@ -2,6 +2,10 @@ body {
   font-family: "Roboto", sans-serif;
   background: #f9f8fa;
 }
+
+.text-center {
+  text-align: center;
+}
 .container {
   color: darkslategray;
   background: white;
@@ -13,14 +17,13 @@ body {
 
 /*buttons and inputs */
 button {
-  width: 100px;
   color: white;
   font-weight: bold;
   border: none;
   padding: 5px;
-  margin: 0 auto;
   margin-top: 10px;
   margin-bottom: 10px;
+  width: 100%;
 }
 .primary {
   background: steelblue;
