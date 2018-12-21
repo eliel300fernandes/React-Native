@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import CcHeader from "./components/CcHeader";
-import CcAbout from "./components/CcAbout";
+import CcMain from "./components/CcMain";
 
 import "./css/componentStyle.css";
 import "./css/defaultStyle.css";
 
-ReactDOM.render(<CcHeader />, document.getElementById("app"));
+ReactDOM.render(<CcMain />, document.getElementById("app"));

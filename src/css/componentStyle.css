@@ -4,3 +4,15 @@
   text-align: center;
   align-content: center;
 }
+
+/* component - CcContador */
+#quant-container {
+  border: 1px solid lightgray;
+  color: coral;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin: 0 auto;
+}
